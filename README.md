@@ -21,5 +21,4 @@ This project implements the **Dijkstra algorithm** to find the most efficient ro
 The application uses **QPixmap caching** for the static map background. By drawing all the arcs onto a buffer image only when necessary (startup or window resize), the main rendering loop remains extremely fast, allowing for real-time interaction.
 
 ## Screenshots
-
-
+![Dijkstra](image.png)
